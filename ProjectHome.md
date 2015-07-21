@@ -1,0 +1,1 @@
+This thin C++ wrapper library provides an OOP interface to the [ENet networking library](http://enet.bespin.org).
